@@ -11,3 +11,12 @@
 3. Detect and contain cyber security incidents  
 
 4. Respond to cyber security incidents 
+
+## Structure
+
+| Function    | Team         |
+|-------------|--------------|
+| Design      | Architecture |
+| Build       | Engineering  |
+| Run         | Ops          |
+| Manage Risk | GRC          |
