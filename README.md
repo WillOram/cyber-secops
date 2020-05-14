@@ -20,3 +20,16 @@
 | Build       | Engineering  |
 | Run         | Ops          |
 | Manage Risk | GRC          |
+
+## Need to make to key capabilities
+
+e.g. 
+
+- Endpoints
+- Servers
+- Cloud
+- Identity (AD)
+- Web 
+- Email 
+- Data
+- Application
